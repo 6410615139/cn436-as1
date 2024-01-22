@@ -44,4 +44,3 @@ Name(Thai)
 
 ### Video demo
 __[Video demo](https://drive.google.com/file/d/1mHEFyp6GTifvS90biK8cUcU_Sidg05Tp/view?usp=share_link)__ - google drive link
-![](mov/Demo_Number.mov)
